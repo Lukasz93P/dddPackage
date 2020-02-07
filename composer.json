@@ -1,11 +1,19 @@
 {
-    "name": "joann/ddd-package",
+    "name": "lukasz93p/dddPackage",
+    "description": "DDD package",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Lukasz93P",
             "email": "lukasz9.3@interia.pl"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Lukasz93P\\dddPackage\\": "src/"
+        }
+    },
     "require": {
         "lukasz93p/asynchronous-tasks-queue": "dev-master",
         "doctrine/orm": "^2.7",
