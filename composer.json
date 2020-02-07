@@ -1,0 +1,16 @@
+{
+    "name": "joann/ddd-package",
+    "authors": [
+        {
+            "name": "Lukasz93P",
+            "email": "lukasz9.3@interia.pl"
+        }
+    ],
+    "require": {
+        "lukasz93p/asynchronous-tasks-queue": "dev-master",
+        "doctrine/orm": "^2.7",
+        "doctrine/doctrine-bundle": "^2.0",
+        "doctrine/annotations": "^1.8",
+        "lukasz93p/symfony-http-api": "1.2"
+    }
+}
