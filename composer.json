@@ -9,6 +9,11 @@
             "email": "lukasz9.3@interia.pl"
         }
     ],
+        "autoload": {
+            "psr-4": {
+                "Lukasz93P\\dddPackage\\": "src/"
+            }
+        },
     "require": {
         "lukasz93p/asynchronous-tasks-queue": "dev-master",
         "doctrine/orm": "^2.7",
