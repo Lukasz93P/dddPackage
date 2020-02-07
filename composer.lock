@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e9c2ceca871bea925c517bf2b7276445",
+    "content-hash": "516441be5e8fc585e60c76e135fe9020",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -2497,7 +2497,7 @@
         },
         {
             "name": "lukasz93p/symfony-http-api",
-            "version": "1.2",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Lukasz93P/symfony-http-api.git",
@@ -5452,7 +5452,8 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "lukasz93p/asynchronous-tasks-queue": 20
+        "lukasz93p/asynchronous-tasks-queue": 20,
+        "lukasz93p/symfony-http-api": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

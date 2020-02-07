@@ -19,6 +19,6 @@
         "doctrine/orm": "^2.7",
         "doctrine/doctrine-bundle": "^2.0",
         "doctrine/annotations": "^1.8",
-        "lukasz93p/symfony-http-api": "1.2"
+        "lukasz93p/symfony-http-api": "dev-master"
     }
 }
