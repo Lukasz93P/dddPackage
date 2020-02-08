@@ -17,7 +17,7 @@
     "require": {
         "lukasz93p/asynchronous-tasks-queue": "1.3",
         "doctrine/orm": "^2.7",
-        "doctrine/doctrine-bundle": "1.12.7",
+        "doctrine/doctrine-bundle": "2.0.7",
         "doctrine/annotations": "^1.8",
         "symfony/doctrine-bridge": "4.3.*",
         "symfony/http-foundation": "4.3.*",
